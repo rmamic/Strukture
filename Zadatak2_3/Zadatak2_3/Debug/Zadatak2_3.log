@@ -1,0 +1,5 @@
+﻿  zad2.c
+c:\users\rosana\documents\strukture\zadatak2_3\zadatak2_3\zad2.c(145): warning C4098: 'unosIza': 'void' function returning a value
+c:\users\rosana\documents\strukture\zadatak2_3\zadatak2_3\zad2.c(156): warning C4098: 'unosIspred': 'void' function returning a value
+c:\users\rosana\documents\strukture\zadatak2_3\zadatak2_3\zad2.c(200): warning C4098: 'upisi_u_file': 'void' function returning a value
+  Zadatak2_3.vcxproj -> C:\Users\Rosana\Documents\Strukture\Zadatak2_3\Debug\Zadatak2_3.exe
