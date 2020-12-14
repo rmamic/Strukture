@@ -1,0 +1,5 @@
+﻿  zad5.c
+c:\users\rosana\documents\strukture\zadatak5\zadatak5\zad5.c(102): warning C4047: 'function': 'int' differs in levels of indirection from 'Pozicija'
+c:\users\rosana\documents\strukture\zadatak5\zadatak5\zad5.c(102): warning C4024: 'novi_broj': different types for formal and actual parameter 1
+c:\users\rosana\documents\strukture\zadatak5\zadatak5\zad5.c(102): warning C4020: 'novi_broj': too many actual parameters
+  Zadatak5.vcxproj -> C:\Users\Rosana\Documents\Strukture\Zadatak5\Debug\Zadatak5.exe
