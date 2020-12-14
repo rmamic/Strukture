@@ -1,0 +1,4 @@
+IME		PREZIME		BODOVI
+Mario	Mario		37
+Luigi	Mario		28
+Super	Sonic		40
