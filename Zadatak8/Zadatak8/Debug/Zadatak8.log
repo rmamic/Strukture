@@ -1,0 +1,6 @@
+﻿  zad8.c
+c:\users\rosana\documents\strukture\zadatak8\zadatak8\zad8.c(37): warning C4133: '=': incompatible types - from 'stogPozicija' to 'pozicija'
+c:\users\rosana\documents\strukture\zadatak8\zadatak8\zad8.c(45): warning C4129: ' ': unrecognized character escape sequence
+c:\users\rosana\documents\strukture\zadatak8\zadatak8\zad8.c(45): warning C4129: '>': unrecognized character escape sequence
+c:\users\rosana\documents\strukture\zadatak8\zadatak8\zad8.c(96): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+  Zadatak8.vcxproj -> C:\Users\Rosana\Documents\Strukture\Zadatak8\Debug\Zadatak8.exe
