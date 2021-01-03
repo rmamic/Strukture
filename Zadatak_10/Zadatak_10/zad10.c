@@ -45,9 +45,8 @@ int main()
 	while (!feof(fp)) {
 		pozicija novi = malloc(sizeof(Cvor));
 
-		novi->el = malloc(sizeof(char) * 5);
-		novi->el[4] = '\0';
-		fscanf(fp, " %s", novi->el, 4);
+		novi->el = malloc(sizeof(char));
+		fscanf(fp, " %s", novi->el);
 		novi->D = novi->L = NULL;
 
 		if (atoi(novi->el) || isalpha(novi->el[0])) {

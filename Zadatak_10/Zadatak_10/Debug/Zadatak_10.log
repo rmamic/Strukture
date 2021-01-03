@@ -1,6 +1,4 @@
 ﻿  zad10.c
 c:\users\rosana\documents\strukture\zadatak_10\zadatak_10\zad10.c(38): warning C4133: '=': incompatible types - from 'pozicija' to 'stogPozicija'
-c:\users\rosana\documents\strukture\zadatak_10\zadatak_10\zad10.c(50): warning C4474: 'fscanf' : too many arguments passed for format string
-  c:\users\rosana\documents\strukture\zadatak_10\zadatak_10\zad10.c(50): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
-c:\users\rosana\documents\strukture\zadatak_10\zadatak_10\zad10.c(53): warning C4013: 'isalpha' undefined; assuming extern returning int
+c:\users\rosana\documents\strukture\zadatak_10\zadatak_10\zad10.c(52): warning C4013: 'isalpha' undefined; assuming extern returning int
   Zadatak_10.vcxproj -> C:\Users\Rosana\Documents\Strukture\Zadatak_10\Debug\Zadatak_10.exe
