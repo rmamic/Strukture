@@ -1,5 +1,5 @@
 ﻿  zad11.c
 c:\users\rosana\documents\strukture\zadatak_11\zadatak_11\zad11.c(68): warning C4047: 'function': 'pozicija' differs in levels of indirection from 'pozicija [11]'
 c:\users\rosana\documents\strukture\zadatak_11\zadatak_11\zad11.c(68): warning C4024: 'ispisi': different types for formal and actual parameter 1
-c:\users\rosana\documents\strukture\zadatak_11\zadatak_11\zad11.c(146): warning C4028: formal parameter 1 different from declaration
+c:\users\rosana\documents\strukture\zadatak_11\zadatak_11\zad11.c(147): warning C4028: formal parameter 1 different from declaration
   Zadatak_11.vcxproj -> C:\Users\Rosana\Documents\Strukture\Zadatak_11\Debug\Zadatak_11.exe

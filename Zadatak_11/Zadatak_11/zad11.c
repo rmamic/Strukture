@@ -138,6 +138,7 @@ void pronadji(pozicija head, char* ime, char* prezime)
 				printf("Maticni broj studenta %s %s: %d\n", ime, prezime, head->matBroj);
 				return;
 			}
+		head = head->next;
 	}
 	printf("Student ne postoji.\n");
 }
