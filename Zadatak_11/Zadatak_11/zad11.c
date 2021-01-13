@@ -80,9 +80,9 @@ int hash(char* slovo, int velTab)
 {
 	int HashV = 0;
 	int i = 0;
-	for (i; i < 5; i++) {
-		if (slovo[i] != '\0')
+	while(i < 5 && slovo[i] != '\0'){
 			HashV += slovo[i];
+			i++;
 	}
 	return (HashV % velTab);
 }
